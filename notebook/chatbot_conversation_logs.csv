@@ -1,0 +1,7 @@
+user_message,intent,sentiment,bot_response,escalation_needed,timestamp
+Where is my order ORD002?,ORDER_TRACKING,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.179986
+How do I return a product?,GENERAL_FAQ,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.273076
+"I'm very unhappy, your product broke immediately!",GENERAL_FAQ,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.373623
+Do you accept credit cards?,GENERAL_FAQ,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.453055
+I forgot my password,ACCOUNT_HELP,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.535224
+Is the iPhone 15 in stock?,PRODUCT_INFO,NEGATIVE,"I apologize, there was an error processing your request. Let me connect you with our support team.",True,2025-12-23T23:02:34.618047
