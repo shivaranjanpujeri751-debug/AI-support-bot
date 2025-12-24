@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+
+# Dataset / Data
+data/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.zip
+*.tar
+*.gz
+
+# Cache / Temp
+.cache/
+tmp/
+temp/
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+
+# Misc
+*.sqlite3
+*.db
