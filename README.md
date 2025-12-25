@@ -3,7 +3,7 @@
 Intelligent e‑commerce **customer support chatbot** built with **Groq’s `llama-3.1-8b-instant`**, **Retrieval‑Augmented Generation (RAG)**, and **Flask**.  
 The bot can answer FAQs, track orders, process return requests, analyze sentiment, and suggest escalation to a human agent.
 
-> Built by **Bapugouda Biradar** · Bengaluru, Karnataka, India
+> Built by **Shivaranjan** · Bengaluru, Karnataka, India
 
 ---
 
